@@ -1,5 +1,5 @@
 # Excel-Assignments
-excel assignments and important topics : 
+Excel assignments and important topics : 
 1.Arithmetic functions
 2.Logical functions 
 3.Lookup functions
